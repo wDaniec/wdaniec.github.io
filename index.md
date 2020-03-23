@@ -17,4 +17,4 @@ Podsumowanie sprintu 1:
 Plan na sprint 2:
 - Dokończenie issue nad którym w sumie nie zacząłem jeszcze pracy:
     - napisanie prostego rozwiązania na poziomie pythona i podesłanie go autorom, żeby dowiedzieć się czy jest wystarczające
-    - Prawdopodobnie nie będzie dobre i będę musiał sprawdzić, jak są używane funkcje na  poziomie C/Cpp.
+    - Prawdopodobnie nie będzie dobre i będę musiał lepiej zrozumieć, jak są używane funkcje na  poziomie C/Cpp.
