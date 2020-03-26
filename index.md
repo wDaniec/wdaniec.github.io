@@ -21,5 +21,4 @@ Plan na sprint 2:
 
 
 Podsumowanie sprintu 2:
-24 marca:
-- Zacząłem pracę nad poprawieniem kodu w pythonie. Podczas kodzenia zauważyłem, że funkcja abs wbudowana w torcha jest podlinkowana do funkcji dla zwykłego tensora. Problem z tym jest taki, że dużo prostych funkcji matematycznych jest napisane w cpp ze wstawkami niskopoziomowymi. Mało używałem cpp, więc ten task wydaje się potwornie trudny. Plus jest taki, że osoba, która pisała tę część odpisuje bardzo szybko. Chciałbym do końca tygodnia to naprawić.
+- 24 marca: Zacząłem pracę nad poprawieniem kodu w pythonie. Podczas kodzenia zauważyłem, że funkcja abs wbudowana w torcha jest podlinkowana do funkcji dla zwykłego tensora. Problem z tym jest taki, że dużo prostych funkcji matematycznych jest napisane w cpp ze wstawkami niskopoziomowymi. Mało używałem cpp, więc ten task wydaje się potwornie trudny. Plus jest taki, że osoba, która pisała tę część odpisuje bardzo szybko. Chciałbym do końca tygodnia to naprawić.
