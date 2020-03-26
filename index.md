@@ -18,3 +18,8 @@ Plan na sprint 2:
 - Dokończenie issue nad którym w sumie nie zacząłem jeszcze pracy:
     - napisanie prostego rozwiązania na poziomie pythona i podesłanie go autorom, żeby dowiedzieć się czy jest wystarczające
     - Prawdopodobnie nie będzie dobre i będę musiał lepiej zrozumieć, jak są używane funkcje na  poziomie C/Cpp.
+
+
+Podsumowanie sprintu 2:
+24 marca:
+- Zacząłem pracę nad poprawieniem kodu w pythonie. Podczas kodzenia zauważyłem, że funkcja abs wbudowana w torcha jest podlinkowana do funkcji dla zwykłego tensora. Problem z tym jest taki, że dużo prostych funkcji matematycznych jest napisane w cpp ze wstawkami niskopoziomowymi. Mało używałem cpp, więc ten task wydaje się potwornie trudny. Plus jest taki, że osoba, która pisała tę część odpisuje bardzo szybko. Chciałbym do końca tygodnia to naprawić.
